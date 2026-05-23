@@ -1,0 +1,6 @@
+{
+  "name": "Internship Auto-Applier & AI Resume Hub",
+  "description": "An automated internship search and application hub featuring AI-powered resume tailoring, ATS optimization, cover letter generation, Kanban status tracking, and live notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
